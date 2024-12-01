@@ -1,0 +1,1 @@
+This subfolder contains support materials for the chapter "The Method of Exact Solutions" in Corless & Fillion, _Perturbation methods using backward error_, to be published by SIAM. The support materials are Maple worksheets.
